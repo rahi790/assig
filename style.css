@@ -1,0 +1,52 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+body{
+	background: url(.pg.jpg);
+	background-size: cover;
+	font-family: 'Lato', sans-serif;
+}
+
+.container{
+	width: 600px;
+	margin: 10% auto;
+}
+
+.Logon-form{
+	background-color: yellow;
+	padding: 20px;
+}
+.Logon-form img{
+	width: 150px;
+	margin: 0 auto;
+	display: block;
+
+}
+
+.Logon-form h1{
+	text-align: center;
+	color: #161616;
+	margin: 10px 0px;
+
+}
+.form-control{
+	width: 97%;
+	height: 35px;
+	padding-left: 6px;
+	margin: 15px;
+
+}
+.Sign-btn{
+	background: black;
+	color: #fff;
+	padding: 8px 20px;
+	text-transform: uppercase;
+	margin: 0 auto;
+	display: block;
+	border: none;
+	box-shadow: 1px 2px 4px #fff;
+
+}
